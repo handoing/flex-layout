@@ -87,8 +87,23 @@ Reference: [http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html](http://www
 
 ## 实例截图：
 
-`./example/images/demo1.jpg`
+**step1**:
+
+	- ./example/images/demo1
 <img src="./example/images/demo1.jpg">
+
+	- ./example/images/demo2
+<img src="./example/images/demo2.jpg">
+
+	- ./example/images/demo3
+<img src="./example/images/demo3.jpg">
+
+	- ./example/images/demo4
+<img src="./example/images/demo4.jpg">
+
+	- ./example/images/demo5
+<img src="./example/images/demo5-1.jpg">
+<img src="./example/images/demo5-2.jpg">
 
 
 
